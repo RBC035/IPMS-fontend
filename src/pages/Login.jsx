@@ -80,7 +80,8 @@ export default function Login() {
             <div className="col-md-4">
               <div className="card border-0 shadow-sm rounded-0">
                 <div className="card-body">
-                  <p className="lead text-center card-title">IPMS Login form</p>
+                  <p className="lead text-center card-title">Indrustrial practical traning</p>
+{/*                   <p className="lead text-center card-title">IPMS Login form</p> */}
                   <form className='p-3'>
                     <div class="input-group mb-3">
                     
